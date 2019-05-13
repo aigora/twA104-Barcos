@@ -1,10 +1,11 @@
-# Título del trabajo
+# printf("Al ataque.\n")
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Recreacion del juego de mesa HUNDIR LA FLOTA
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Claudiu Nicolae Cretu
+Dorin Alexandru Marius Beblea
 
 ## Objetivos del trabajo
 
