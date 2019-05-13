@@ -1,4 +1,4 @@
-# printf("Al ataque.\n")
+# Hundir la Flota
 
 Recreacion del juego de mesa HUNDIR LA FLOTA
 
